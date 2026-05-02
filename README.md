@@ -1,10 +1,6 @@
-# lnpg-cap8-selecao
-Atividade Cap. 8 - Estruturas de Seleção - LNPG IFAL
+# LNPG - Capítulo 8: Estruturas de Seleção
 
-Nome: Marcos Antonio Ferreira Tenorio
-LLM utilizado:** Claude
-Modelo:** Claude Sonnet 4.5
-
+Nome: Marcos Antonio Ferreira Tenorio LLM utilizado:** Claude Modelo:** Claude Sonnet 4.5
 ---
 
 ## Análise comparativa
